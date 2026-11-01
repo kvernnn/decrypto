@@ -1,0 +1,1340 @@
+{
+  "A4DP": {
+    "lobbyId": "A4DP",
+    "mode": "no-repeat",
+    "phase": "ROUND_CLUES",
+    "round": 1,
+    "maxRounds": 8,
+    "hostId": "p_1793549193163_2bgwa",
+    "players": [
+      {
+        "id": "p_1793549193163_2bgwa",
+        "sessionId": "session_host_alice",
+        "name": "Alice",
+        "team": "blue",
+        "isHost": true,
+        "isReady": false,
+        "connected": true,
+        "joinedAt": 1793549193163
+      },
+      {
+        "id": "p_1793549193166_zso8b",
+        "sessionId": "session_bob",
+        "name": "Bob",
+        "team": "blue",
+        "isHost": false,
+        "isReady": false,
+        "connected": true,
+        "joinedAt": 1793549193166
+      },
+      {
+        "id": "p_1793549193167_ficcb",
+        "sessionId": "session_charlie",
+        "name": "Charlie",
+        "team": "red",
+        "isHost": false,
+        "isReady": false,
+        "connected": true,
+        "joinedAt": 1793549193167
+      },
+      {
+        "id": "p_1793549193167_wl1mh",
+        "sessionId": "session_diana",
+        "name": "Diana",
+        "team": "red",
+        "isHost": false,
+        "isReady": false,
+        "connected": true,
+        "joinedAt": 1793549193167
+      }
+    ],
+    "blueKeywords": {
+      "1": "ORBIT",
+      "2": "HELIX",
+      "3": "VANGUARD",
+      "4": "OASIS"
+    },
+    "redKeywords": {
+      "1": "LABOR",
+      "2": "PENDULUM",
+      "3": "SPHINX",
+      "4": "DESERT"
+    },
+    "blueEncryptorOrder": [
+      "p_1793549193163_2bgwa",
+      "p_1793549193166_zso8b"
+    ],
+    "redEncryptorOrder": [
+      "p_1793549193167_ficcb",
+      "p_1793549193167_wl1mh"
+    ],
+    "blueEncryptorIndex": 0,
+    "redEncryptorIndex": 0,
+    "blueCurrentCode": [
+      1,
+      4,
+      2
+    ],
+    "redCurrentCode": [
+      4,
+      1,
+      2
+    ],
+    "bluePreparedClues": null,
+    "redPreparedClues": null,
+    "currentTransmission": null,
+    "scores": {
+      "blue": {
+        "interceptions": 0,
+        "miscommunications": 0
+      },
+      "red": {
+        "interceptions": 0,
+        "miscommunications": 0
+      }
+    },
+    "blueCluesHistory": {
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": []
+    },
+    "redCluesHistory": {
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": []
+    },
+    "blueNotes": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "redNotes": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "blueSuggestions": {},
+    "redSuggestions": {},
+    "chatMessages": [
+      {
+        "id": "sys_1793549193164",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "HQ Cipher Room",
+        "text": "Lobby created by Alice. Welcome to Decrypto.",
+        "isSystem": true,
+        "timestamp": 1793549193163
+      },
+      {
+        "id": "sys_red_1793549193164",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "HQ Cipher Room",
+        "text": "Lobby created by Alice. Welcome to Decrypto.",
+        "isSystem": true,
+        "timestamp": 1793549193163
+      },
+      {
+        "id": "sys_1793549193167_9v0",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Bob joined the frequency.",
+        "isSystem": true,
+        "timestamp": 1793549193167
+      },
+      {
+        "id": "sys_1793549193167_mgh",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Charlie joined the frequency.",
+        "isSystem": true,
+        "timestamp": 1793549193167
+      },
+      {
+        "id": "sys_1793549193167_1bl",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Diana joined the frequency.",
+        "isSystem": true,
+        "timestamp": 1793549193167
+      },
+      {
+        "id": "sys_b_1793549193169_921",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Host randomised team assignments.",
+        "isSystem": true,
+        "timestamp": 1793549193169
+      },
+      {
+        "id": "sys_r_1793549193169_nhg",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Host randomised team assignments.",
+        "isSystem": true,
+        "timestamp": 1793549193169
+      },
+      {
+        "id": "sys_b_1793549193170_cr9",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Game mode set to No-repeat house rule.",
+        "isSystem": true,
+        "timestamp": 1793549193170
+      },
+      {
+        "id": "sys_r_1793549193170_oo4",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Game mode set to No-repeat house rule.",
+        "isSystem": true,
+        "timestamp": 1793549193170
+      },
+      {
+        "id": "sys_b_1793549193170_iux",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "=== ROUND 1 INITIATED ===",
+        "isSystem": true,
+        "timestamp": 1793549193170
+      },
+      {
+        "id": "sys_r_1793549193170_v71",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "=== ROUND 1 INITIATED ===",
+        "isSystem": true,
+        "timestamp": 1793549193170
+      },
+      {
+        "id": "sys_b_1793549193170_tqy",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue Encryptor: Alice. Red Encryptor: Charlie.",
+        "isSystem": true,
+        "timestamp": 1793549193170
+      },
+      {
+        "id": "sys_r_1793549193170_oxq",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue Encryptor: Alice. Red Encryptor: Charlie.",
+        "isSystem": true,
+        "timestamp": 1793549193170
+      },
+      {
+        "id": "sys_b_1793549193170_07o",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Encryptors are now preparing three secret clues.",
+        "isSystem": true,
+        "timestamp": 1793549193170
+      },
+      {
+        "id": "sys_r_1793549193170_y5v",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Encryptors are now preparing three secret clues.",
+        "isSystem": true,
+        "timestamp": 1793549193170
+      }
+    ],
+    "history": [],
+    "blueUsedCodes": [],
+    "redUsedCodes": [],
+    "winner": null,
+    "endingReason": null,
+    "tiebreaker": null,
+    "disputedClues": [],
+    "createdAt": 1793549193163,
+    "updatedAt": 1793549193170
+  },
+  "A88U": {
+    "lobbyId": "A88U",
+    "mode": "no-repeat",
+    "phase": "TRANSMISSION_RED",
+    "round": 2,
+    "maxRounds": 8,
+    "hostId": "p_1793549216264_ovqca",
+    "players": [
+      {
+        "id": "p_1793549216264_ovqca",
+        "sessionId": "session_host_alice",
+        "name": "Alice",
+        "team": "blue",
+        "isHost": true,
+        "isReady": false,
+        "connected": true,
+        "joinedAt": 1793549216264
+      },
+      {
+        "id": "p_1793549216265_6g084",
+        "sessionId": "session_bob",
+        "name": "Bob",
+        "team": "blue",
+        "isHost": false,
+        "isReady": false,
+        "connected": true,
+        "joinedAt": 1793549216265
+      },
+      {
+        "id": "p_1793549216266_wx7xg",
+        "sessionId": "session_charlie",
+        "name": "Charlie",
+        "team": "red",
+        "isHost": false,
+        "isReady": false,
+        "connected": true,
+        "joinedAt": 1793549216266
+      },
+      {
+        "id": "p_1793549216266_41fgi",
+        "sessionId": "session_diana",
+        "name": "Diana",
+        "team": "red",
+        "isHost": false,
+        "isReady": false,
+        "connected": true,
+        "joinedAt": 1793549216266
+      }
+    ],
+    "blueKeywords": {
+      "1": "CASTLE",
+      "2": "PHOENIX",
+      "3": "SYMPHONY",
+      "4": "DIAMOND"
+    },
+    "redKeywords": {
+      "1": "BLIZZARD",
+      "2": "DAGGER",
+      "3": "TELESCOPE",
+      "4": "SPECTER"
+    },
+    "blueEncryptorOrder": [
+      "p_1793549216264_ovqca",
+      "p_1793549216265_6g084"
+    ],
+    "redEncryptorOrder": [
+      "p_1793549216266_wx7xg",
+      "p_1793549216266_41fgi"
+    ],
+    "blueEncryptorIndex": 1,
+    "redEncryptorIndex": 1,
+    "blueCurrentCode": [
+      4,
+      1,
+      2
+    ],
+    "redCurrentCode": [
+      4,
+      1,
+      2
+    ],
+    "bluePreparedClues": [
+      "Round2BlueOne",
+      "Round2BlueTwo",
+      "Round2BlueThree"
+    ],
+    "redPreparedClues": [
+      "Round2RedOne",
+      "Round2RedTwo",
+      "Round2RedThree"
+    ],
+    "currentTransmission": {
+      "team": "red",
+      "encryptorId": "p_1793549216266_41fgi",
+      "encryptorName": "Diana",
+      "clues": [
+        "Round2RedOne",
+        "Round2RedTwo",
+        "Round2RedThree"
+      ],
+      "decodingSubmitterId": "p_1793549216266_wx7xg",
+      "interceptionSubmitterId": "p_1793549216264_ovqca",
+      "decodingLocked": false,
+      "interceptionLocked": false,
+      "resolved": false,
+      "decodingGuess": null,
+      "interceptionGuess": null,
+      "actualCodeRevealed": null,
+      "interceptionSuccess": null,
+      "decodingSuccess": null
+    },
+    "scores": {
+      "blue": {
+        "interceptions": 0,
+        "miscommunications": 1
+      },
+      "red": {
+        "interceptions": 1,
+        "miscommunications": 0
+      }
+    },
+    "blueCluesHistory": {
+      "1": [
+        {
+          "round": 1,
+          "digit": 1,
+          "clue": "GammaClueThree",
+          "encryptorName": "Alice"
+        },
+        {
+          "round": 2,
+          "digit": 1,
+          "clue": "Round2BlueTwo",
+          "encryptorName": "Bob"
+        }
+      ],
+      "2": [
+        {
+          "round": 1,
+          "digit": 2,
+          "clue": "BetaClueTwo",
+          "encryptorName": "Alice"
+        },
+        {
+          "round": 2,
+          "digit": 2,
+          "clue": "Round2BlueThree",
+          "encryptorName": "Bob"
+        }
+      ],
+      "3": [
+        {
+          "round": 1,
+          "digit": 3,
+          "clue": "AlphaClueOne",
+          "encryptorName": "Alice"
+        }
+      ],
+      "4": [
+        {
+          "round": 2,
+          "digit": 4,
+          "clue": "Round2BlueOne",
+          "encryptorName": "Bob"
+        }
+      ]
+    },
+    "redCluesHistory": {
+      "1": [],
+      "2": [
+        {
+          "round": 1,
+          "digit": 2,
+          "clue": "DeltaClueOne",
+          "encryptorName": "Charlie"
+        }
+      ],
+      "3": [
+        {
+          "round": 1,
+          "digit": 3,
+          "clue": "ZetaClueThree",
+          "encryptorName": "Charlie"
+        }
+      ],
+      "4": [
+        {
+          "round": 1,
+          "digit": 4,
+          "clue": "EpsilonClueTwo",
+          "encryptorName": "Charlie"
+        }
+      ]
+    },
+    "blueNotes": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "redNotes": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "blueSuggestions": {},
+    "redSuggestions": {},
+    "chatMessages": [
+      {
+        "id": "sys_1793549216265",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "HQ Cipher Room",
+        "text": "Lobby created by Alice. Welcome to Decrypto.",
+        "isSystem": true,
+        "timestamp": 1793549216264
+      },
+      {
+        "id": "sys_red_1793549216265",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "HQ Cipher Room",
+        "text": "Lobby created by Alice. Welcome to Decrypto.",
+        "isSystem": true,
+        "timestamp": 1793549216264
+      },
+      {
+        "id": "sys_1793549216265_7te",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Bob joined the frequency.",
+        "isSystem": true,
+        "timestamp": 1793549216265
+      },
+      {
+        "id": "sys_1793549216266_cmh",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Charlie joined the frequency.",
+        "isSystem": true,
+        "timestamp": 1793549216266
+      },
+      {
+        "id": "sys_1793549216266_qvc",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Diana joined the frequency.",
+        "isSystem": true,
+        "timestamp": 1793549216266
+      },
+      {
+        "id": "sys_b_1793549216268_htz",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Host randomised team assignments.",
+        "isSystem": true,
+        "timestamp": 1793549216268
+      },
+      {
+        "id": "sys_r_1793549216268_qug",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Host randomised team assignments.",
+        "isSystem": true,
+        "timestamp": 1793549216268
+      },
+      {
+        "id": "sys_b_1793549216269_4de",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Game mode set to No-repeat house rule.",
+        "isSystem": true,
+        "timestamp": 1793549216269
+      },
+      {
+        "id": "sys_r_1793549216269_qea",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Game mode set to No-repeat house rule.",
+        "isSystem": true,
+        "timestamp": 1793549216269
+      },
+      {
+        "id": "sys_b_1793549216269_fwh",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "=== ROUND 1 INITIATED ===",
+        "isSystem": true,
+        "timestamp": 1793549216269
+      },
+      {
+        "id": "sys_r_1793549216269_abr",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "=== ROUND 1 INITIATED ===",
+        "isSystem": true,
+        "timestamp": 1793549216269
+      },
+      {
+        "id": "sys_b_1793549216269_5wm",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue Encryptor: Alice. Red Encryptor: Charlie.",
+        "isSystem": true,
+        "timestamp": 1793549216269
+      },
+      {
+        "id": "sys_r_1793549216269_wmg",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue Encryptor: Alice. Red Encryptor: Charlie.",
+        "isSystem": true,
+        "timestamp": 1793549216269
+      },
+      {
+        "id": "sys_b_1793549216269_bb9",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Encryptors are now preparing three secret clues.",
+        "isSystem": true,
+        "timestamp": 1793549216269
+      },
+      {
+        "id": "sys_r_1793549216269_h0a",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Encryptors are now preparing three secret clues.",
+        "isSystem": true,
+        "timestamp": 1793549216269
+      },
+      {
+        "id": "sys_1793549216271_2ml",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue Encryptor has encrypted and locked their clues!",
+        "isSystem": true,
+        "timestamp": 1793549216271
+      },
+      {
+        "id": "sys_1793549216272_nvq",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red Encryptor has encrypted and locked their clues!",
+        "isSystem": true,
+        "timestamp": 1793549216272
+      },
+      {
+        "id": "sys_b_1793549216272_r9m",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": ">>> TRANSMISSION 1: BLUE FREQUENCY ACTIVE <<<",
+        "isSystem": true,
+        "timestamp": 1793549216272
+      },
+      {
+        "id": "sys_r_1793549216272_xrr",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": ">>> TRANSMISSION 1: BLUE FREQUENCY ACTIVE <<<",
+        "isSystem": true,
+        "timestamp": 1793549216272
+      },
+      {
+        "id": "sys_b_1793549216272_9xv",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue clues transmitted: 1) \"AlphaClueOne\"  2) \"BetaClueTwo\"  3) \"GammaClueThree\"",
+        "isSystem": true,
+        "timestamp": 1793549216272
+      },
+      {
+        "id": "sys_r_1793549216272_1v1",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue clues transmitted: 1) \"AlphaClueOne\"  2) \"BetaClueTwo\"  3) \"GammaClueThree\"",
+        "isSystem": true,
+        "timestamp": 1793549216272
+      },
+      {
+        "id": "sys_b_1793549216272_ltt",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Round 1: Interception is disabled. Blue team must decode their own frequency.",
+        "isSystem": true,
+        "timestamp": 1793549216272
+      },
+      {
+        "id": "sys_r_1793549216272_gga",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Round 1: Interception is disabled. Blue team must decode their own frequency.",
+        "isSystem": true,
+        "timestamp": 1793549216272
+      },
+      {
+        "id": "sys_b_1793549216273_h0x",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue locked their decoding guess!",
+        "isSystem": true,
+        "timestamp": 1793549216273
+      },
+      {
+        "id": "sys_r_1793549216273_rq2",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue locked their decoding guess!",
+        "isSystem": true,
+        "timestamp": 1793549216273
+      },
+      {
+        "id": "sys_b_1793549216273_0xg",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "✅ BLUE successfully decoded their transmission [3-2-1]!",
+        "isSystem": true,
+        "timestamp": 1793549216273
+      },
+      {
+        "id": "sys_r_1793549216273_ska",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "✅ BLUE successfully decoded their transmission [3-2-1]!",
+        "isSystem": true,
+        "timestamp": 1793549216273
+      },
+      {
+        "id": "sys_b_1793549216273_fmu",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": ">>> TRANSMISSION 2: RED FREQUENCY ACTIVE <<<",
+        "isSystem": true,
+        "timestamp": 1793549216273
+      },
+      {
+        "id": "sys_r_1793549216273_505",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": ">>> TRANSMISSION 2: RED FREQUENCY ACTIVE <<<",
+        "isSystem": true,
+        "timestamp": 1793549216273
+      },
+      {
+        "id": "sys_b_1793549216273_4v8",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red clues transmitted: 1) \"DeltaClueOne\"  2) \"EpsilonClueTwo\"  3) \"ZetaClueThree\"",
+        "isSystem": true,
+        "timestamp": 1793549216273
+      },
+      {
+        "id": "sys_r_1793549216273_gim",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red clues transmitted: 1) \"DeltaClueOne\"  2) \"EpsilonClueTwo\"  3) \"ZetaClueThree\"",
+        "isSystem": true,
+        "timestamp": 1793549216273
+      },
+      {
+        "id": "sys_b_1793549216273_vjp",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Round 1: Interception is disabled. Red team must decode their own frequency.",
+        "isSystem": true,
+        "timestamp": 1793549216273
+      },
+      {
+        "id": "sys_r_1793549216273_rg2",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Round 1: Interception is disabled. Red team must decode their own frequency.",
+        "isSystem": true,
+        "timestamp": 1793549216273
+      },
+      {
+        "id": "sys_b_1793549216274_es8",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red locked their decoding guess!",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_r_1793549216274_m5r",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red locked their decoding guess!",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_b_1793549216274_si3",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "✅ RED successfully decoded their transmission [2-4-3]!",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_r_1793549216274_d0h",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "✅ RED successfully decoded their transmission [2-4-3]!",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_b_1793549216274_s9x",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Round 1 concluded. Scores: Blue [0 Int, 0 Mis] vs Red [0 Int, 0 Mis].",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_r_1793549216274_56e",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Round 1 concluded. Scores: Blue [0 Int, 0 Mis] vs Red [0 Int, 0 Mis].",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_b_1793549216274_j3l",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "=== ROUND 2 INITIATED ===",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_r_1793549216274_yjs",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "=== ROUND 2 INITIATED ===",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_b_1793549216274_wh3",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue Encryptor: Bob. Red Encryptor: Diana.",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_r_1793549216274_b8y",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue Encryptor: Bob. Red Encryptor: Diana.",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_b_1793549216274_oq2",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Encryptors are now preparing three secret clues.",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_r_1793549216274_033",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Encryptors are now preparing three secret clues.",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_1793549216274_g4n",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue Encryptor has encrypted and locked their clues!",
+        "isSystem": true,
+        "timestamp": 1793549216274
+      },
+      {
+        "id": "sys_1793549216275_z0c",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red Encryptor has encrypted and locked their clues!",
+        "isSystem": true,
+        "timestamp": 1793549216275
+      },
+      {
+        "id": "sys_b_1793549216275_eoc",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": ">>> TRANSMISSION 1: BLUE FREQUENCY ACTIVE <<<",
+        "isSystem": true,
+        "timestamp": 1793549216275
+      },
+      {
+        "id": "sys_r_1793549216275_lgi",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": ">>> TRANSMISSION 1: BLUE FREQUENCY ACTIVE <<<",
+        "isSystem": true,
+        "timestamp": 1793549216275
+      },
+      {
+        "id": "sys_b_1793549216275_6cw",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue clues transmitted: 1) \"Round2BlueOne\"  2) \"Round2BlueTwo\"  3) \"Round2BlueThree\"",
+        "isSystem": true,
+        "timestamp": 1793549216275
+      },
+      {
+        "id": "sys_r_1793549216275_8ee",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue clues transmitted: 1) \"Round2BlueOne\"  2) \"Round2BlueTwo\"  3) \"Round2BlueThree\"",
+        "isSystem": true,
+        "timestamp": 1793549216275
+      },
+      {
+        "id": "sys_b_1793549216275_tgt",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red team: attempt interception! Blue team: decode your frequency!",
+        "isSystem": true,
+        "timestamp": 1793549216275
+      },
+      {
+        "id": "sys_r_1793549216275_6co",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red team: attempt interception! Blue team: decode your frequency!",
+        "isSystem": true,
+        "timestamp": 1793549216275
+      },
+      {
+        "id": "sys_b_1793549216275_4l4",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red locked their interception guess!",
+        "isSystem": true,
+        "timestamp": 1793549216275
+      },
+      {
+        "id": "sys_r_1793549216275_ivh",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red locked their interception guess!",
+        "isSystem": true,
+        "timestamp": 1793549216275
+      },
+      {
+        "id": "sys_b_1793549216276_jeq",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue locked their decoding guess!",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_r_1793549216276_fhs",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue locked their decoding guess!",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_b_1793549216276_8wv",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "🚨 CRITICAL INTERCEPTION! RED intercepted code [4-1-2] (+1 Interception Token)!",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_r_1793549216276_rz1",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "🚨 CRITICAL INTERCEPTION! RED intercepted code [4-1-2] (+1 Interception Token)!",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_b_1793549216276_71e",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "❌ MISCOMMUNICATION! BLUE guessed [1-4-2], but code was [4-1-2] (+1 Miscommunication Token)!",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_r_1793549216276_wi1",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "❌ MISCOMMUNICATION! BLUE guessed [1-4-2], but code was [4-1-2] (+1 Miscommunication Token)!",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_b_1793549216276_olj",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": ">>> TRANSMISSION 2: RED FREQUENCY ACTIVE <<<",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_r_1793549216276_fmo",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": ">>> TRANSMISSION 2: RED FREQUENCY ACTIVE <<<",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_b_1793549216276_kv7",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red clues transmitted: 1) \"Round2RedOne\"  2) \"Round2RedTwo\"  3) \"Round2RedThree\"",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_r_1793549216276_t6f",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Red clues transmitted: 1) \"Round2RedOne\"  2) \"Round2RedTwo\"  3) \"Round2RedThree\"",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_b_1793549216276_uqs",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue team: attempt interception! Red team: decode your frequency!",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      },
+      {
+        "id": "sys_r_1793549216276_g58",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Blue team: attempt interception! Red team: decode your frequency!",
+        "isSystem": true,
+        "timestamp": 1793549216276
+      }
+    ],
+    "history": [
+      {
+        "roundNumber": 1,
+        "blue": {
+          "encryptorId": "p_1793549216264_ovqca",
+          "encryptorName": "Alice",
+          "clues": [
+            "AlphaClueOne",
+            "BetaClueTwo",
+            "GammaClueThree"
+          ],
+          "actualCode": [
+            3,
+            2,
+            1
+          ],
+          "decodingGuess": [
+            3,
+            2,
+            1
+          ],
+          "decodingSuccess": true,
+          "interceptionGuess": null,
+          "interceptionSuccess": null
+        },
+        "red": {
+          "encryptorId": "p_1793549216266_wx7xg",
+          "encryptorName": "Charlie",
+          "clues": [
+            "DeltaClueOne",
+            "EpsilonClueTwo",
+            "ZetaClueThree"
+          ],
+          "actualCode": [
+            2,
+            4,
+            3
+          ],
+          "decodingGuess": [
+            2,
+            4,
+            3
+          ],
+          "decodingSuccess": true,
+          "interceptionGuess": null,
+          "interceptionSuccess": null
+        }
+      }
+    ],
+    "blueUsedCodes": [
+      "3-2-1",
+      "4-1-2"
+    ],
+    "redUsedCodes": [
+      "2-4-3"
+    ],
+    "winner": null,
+    "endingReason": null,
+    "tiebreaker": null,
+    "disputedClues": [],
+    "createdAt": 1793549216264,
+    "updatedAt": 1793549216277,
+    "lastBlueTransmissionRecord": {
+      "decodingGuess": [
+        1,
+        4,
+        2
+      ],
+      "decodingSuccess": false,
+      "interceptionGuess": [
+        4,
+        1,
+        2
+      ],
+      "interceptionSuccess": true
+    }
+  },
+  "V282": {
+    "lobbyId": "V282",
+    "mode": "traditional",
+    "phase": "LOBBY",
+    "round": 1,
+    "maxRounds": 8,
+    "hostId": "p_1793549232728_0tbxx",
+    "players": [
+      {
+        "id": "p_1793549232728_0tbxx",
+        "sessionId": "0f2e4c83-64fc-4531-a788-4bc41004d5d6",
+        "name": "Host_Alice",
+        "team": "blue",
+        "isHost": true,
+        "isReady": false,
+        "connected": false,
+        "joinedAt": 1793549232728
+      },
+      {
+        "id": "p_1793549232745_o1nyo",
+        "sessionId": "sess_bob",
+        "name": "Bob_Blue",
+        "team": "red",
+        "isHost": false,
+        "isReady": false,
+        "connected": false,
+        "joinedAt": 1793549232745
+      },
+      {
+        "id": "p_1793549232750_4lbmy",
+        "sessionId": "sess_charlie",
+        "name": "Charlie_Red",
+        "team": "blue",
+        "isHost": false,
+        "isReady": false,
+        "connected": false,
+        "joinedAt": 1793549232750
+      },
+      {
+        "id": "p_1793549232754_khyw3",
+        "sessionId": "sess_diana",
+        "name": "Diana_Red",
+        "team": "red",
+        "isHost": false,
+        "isReady": false,
+        "connected": false,
+        "joinedAt": 1793549232754
+      }
+    ],
+    "blueKeywords": {
+      "1": "ORBIT",
+      "2": "HARBOR",
+      "3": "TUNDRA",
+      "4": "SUBMARINE"
+    },
+    "redKeywords": {
+      "1": "PENDULUM",
+      "2": "COMPASS",
+      "3": "PARACHUTE",
+      "4": "LIBRARY"
+    },
+    "blueEncryptorOrder": [],
+    "redEncryptorOrder": [],
+    "blueEncryptorIndex": 0,
+    "redEncryptorIndex": 0,
+    "blueCurrentCode": null,
+    "redCurrentCode": null,
+    "bluePreparedClues": null,
+    "redPreparedClues": null,
+    "currentTransmission": null,
+    "scores": {
+      "blue": {
+        "interceptions": 0,
+        "miscommunications": 0
+      },
+      "red": {
+        "interceptions": 0,
+        "miscommunications": 0
+      }
+    },
+    "blueCluesHistory": {
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": []
+    },
+    "redCluesHistory": {
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": []
+    },
+    "blueNotes": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "redNotes": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "blueSuggestions": {},
+    "redSuggestions": {},
+    "chatMessages": [
+      {
+        "id": "sys_1793549232728",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "HQ Cipher Room",
+        "text": "Lobby created by Host_Alice. Welcome to Decrypto.",
+        "isSystem": true,
+        "timestamp": 1793549232728
+      },
+      {
+        "id": "sys_red_1793549232728",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "HQ Cipher Room",
+        "text": "Lobby created by Host_Alice. Welcome to Decrypto.",
+        "isSystem": true,
+        "timestamp": 1793549232728
+      },
+      {
+        "id": "sys_1793549232745_138",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Bob_Blue joined the frequency.",
+        "isSystem": true,
+        "timestamp": 1793549232745
+      },
+      {
+        "id": "sys_1793549232750_dd1",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Charlie_Red joined the frequency.",
+        "isSystem": true,
+        "timestamp": 1793549232750
+      },
+      {
+        "id": "sys_1793549232754_abg",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Diana_Red joined the frequency.",
+        "isSystem": true,
+        "timestamp": 1793549232754
+      },
+      {
+        "id": "sys_b_1793549232784_vqq",
+        "team": "blue",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Host randomised team assignments.",
+        "isSystem": true,
+        "timestamp": 1793549232784
+      },
+      {
+        "id": "sys_r_1793549232784_47o",
+        "team": "red",
+        "senderId": "system",
+        "senderName": "Decrypto HQ",
+        "text": "Host randomised team assignments.",
+        "isSystem": true,
+        "timestamp": 1793549232784
+      }
+    ],
+    "history": [],
+    "blueUsedCodes": [],
+    "redUsedCodes": [],
+    "winner": null,
+    "endingReason": null,
+    "tiebreaker": null,
+    "disputedClues": [],
+    "createdAt": 1793549232728,
+    "updatedAt": 1793549232791
+  }
+}

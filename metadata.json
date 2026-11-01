@@ -1,0 +1,6 @@
+{
+  "name": "Decrypto Online",
+  "description": "Real-time multiplayer Decrypto deduction and cipher game with server-authoritative state, private transmissions, and authentic paper aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
